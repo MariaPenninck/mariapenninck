@@ -31,7 +31,7 @@
 ###
 
 <br clear="both">
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaPenninck/MariaPenninck/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaPenninck/MariaPenninck/output/pacman-contribution-graph.svg">
